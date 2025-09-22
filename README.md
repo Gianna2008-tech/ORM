@@ -46,7 +46,8 @@ admin.site.register(Car, CarAdmin)
 
 
 # OUTPUT
-![alt text](<car github.png>)
+<img width="1895" height="913" alt="car github - Copy" src="https://github.com/user-attachments/assets/7aa9ddbd-a125-4ce3-bedc-f13f5e051315" />
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
