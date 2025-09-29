@@ -20,7 +20,7 @@ Execute Django admin and create details for 10 books
 ''' 
 admin.py
 
-rom django.contrib import admin
+from django.contrib import admin
 from .models import Car, CarAdmin
 
 models.py
