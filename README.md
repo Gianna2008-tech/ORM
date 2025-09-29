@@ -49,10 +49,8 @@ class Car(models.Model):
     '''
 
 
-
 # OUTPUT 
 ![alt text](<Screenshot 2025-09-21 182719.png>)T
-
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
