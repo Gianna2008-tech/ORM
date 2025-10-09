@@ -50,7 +50,8 @@ class Car(models.Model):
 
 
 # OUTPUT 
-<img width="1905" height="1079" alt="Screenshot 2025-09-29 212046" src="https://github.com/user-attachments/assets/613e7ea4-2e71-42ce-a88b-0c81e11926a2" />
+<img width="1905" height="1079" alt="Screenshot 2025-09-29 212046" src="https://github.com/user-attachments/assets/a56d2dc0-cb12-41cb-9ecf-d3d099e4d34b" />
+
 
 
 # RESULT
