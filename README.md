@@ -1,8 +1,9 @@
 # Ex02 Django ORM Web Application
-# Date:22/09/2025
+# Date:
 # AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
+# ENTITY RELATIONSHIP DIAGRAM
 ## DESIGN STEPS
 ## STEP 1:
 Clone the problem from GitHub
@@ -42,18 +43,13 @@ class Car(models.Model):
     color = models.CharField(max_length=50)
     price = models.DecimalField(max_digits=10, decimal_places=2)
 
-    def __str__(self):
+    def _str_(self):
         return f"{self.name} {self.model}"
+```
+# OUTPUT
+Include the screenshot of your admin page.
 
-
-    ```
-
-
-# OUTPUT 
-
-<img width="1895" height="913" alt="car github" src="https://github.com/user-attachments/assets/fb596218-5faa-41b8-94ee-32247653a247" />
-
-
+<img width="1895" height="913" alt="car github" src="https://github.com/user-attachments/assets/5a8b046d-58cf-4e4c-98b2-20d22ea7ba4a" />
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
